@@ -1,1 +1,1 @@
-# game-of-queens
+# Game: Sleeping Queens
